@@ -23,7 +23,7 @@ const navigation = [
   { name: 'Document Library', href: '/documents', icon: FileText },
   { name: 'Search & Discovery', href: '/search', icon: Search },
   { name: 'Agent Management', href: '/agents', icon: Bot },
-  { name: 'API Console', href: '/api', icon: Code },
+  { name: 'API Console', href: '/api-console', icon: Code },
   { name: 'Analytics', href: '/analytics', icon: BarChart3 },
   { name: 'Settings', href: '/settings', icon: Settings },
 ]
